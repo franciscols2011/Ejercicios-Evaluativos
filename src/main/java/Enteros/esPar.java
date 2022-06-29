@@ -6,7 +6,7 @@ public class esPar {
     }
 
     public static void main (String[] args){
-        int numero = 8;
+        int numero = 7;
         if (Par(numero)){
             System.out.println("Si es par");
         }else{
